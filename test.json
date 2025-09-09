@@ -1,0 +1,26 @@
+{
+  "string": "hello world",
+  "number_int": 123,
+  "number_float": 45.67,
+  "boolean_true": true,
+  "boolean_false": false,
+  "null_value": null,
+  "array": [
+    1,
+    "two",
+    false,
+    null,
+    { "nested": "object" }
+  ],
+  "object": {
+    "id": 1,
+    "name": "test",
+    "tags": [ "json", "parser", "example" ],
+    "details": {
+      "active": true,
+      "score": 99.9
+    }
+  },
+  "empty_array": [],
+  "empty_object": {}
+}
